@@ -54,11 +54,11 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
     2. Each asteroid will be a non-zero integer in the range [-1000, 1000].
     3. An empty list should return an empty list.
 * Assuming your assumptions are good, what are some good examples to test your finished algorithm against?
-    1. Input: [-2, -1, 1, 2] 
+    1. Input: [-2, -1, 1, 2]  
        Output: [-2, -1, 1, 2]
-    2. Input: [10, 2, -5] 
+    2. Input: [10, 2, -5]  
        Output: [10]
-    3. Input: [5, 10, -5] 
+    3. Input: [5, 10, -5]  
        Output: [5, 10]
 * Psuedocode
     1. initialize an empty list we will use as a stack
