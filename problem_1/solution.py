@@ -25,7 +25,7 @@ def asteroid_collision(asteroids):
         else:
             stack.append(asteroid)
 
-    # return stack which will contain asteroids
+    # return stack containing asteroids
     # that haven't collided
     return stack
 
